@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomShapeImageView/CustomShapeImageView.iml" filepath="$PROJECT_DIR$/CustomShapeImageView/CustomShapeImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FAB/FAB.iml" filepath="$PROJECT_DIR$/FAB/FAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LostAndFound.iml" filepath="$PROJECT_DIR$/LostAndFound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResideMenu/ResideMenu.iml" filepath="$PROJECT_DIR$/ResideMenu/ResideMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nineoldandroids-library-2.4.0/nineoldandroids-library-2.4.0.iml" filepath="$PROJECT_DIR$/nineoldandroids-library-2.4.0/nineoldandroids-library-2.4.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptr-lib/ptr-lib.iml" filepath="$PROJECT_DIR$/ptr-lib/ptr-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimaterecyclerview/ultimaterecyclerview.iml" filepath="$PROJECT_DIR$/ultimaterecyclerview/ultimaterecyclerview.iml" />
+    </modules>
+  </component>
+</project>

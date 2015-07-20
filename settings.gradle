@@ -1,0 +1,2 @@
+include ':app', ':ResideMenu', ':ptr-lib', ':nineoldandroids-library-2.4.0', 'ultimaterecyclerview', ':FAB'
+include ':CustomShapeImageView'
